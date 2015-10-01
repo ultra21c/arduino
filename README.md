@@ -17,3 +17,7 @@
 	* 미니
 		- 아두이노 나노
 		- 아두이노 미니
+
+# 참고 & 강좌
+	* Youtube
+		- https://goo.gl/EO0Ckp
