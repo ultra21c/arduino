@@ -1,4 +1,8 @@
 # Arduino 관련 상식
+	* 종류(이태리어)
+		- UNO : 1번버전
+		- DUE : 2번버전
+		- TRE : 3번버전
 	* 미니 하드웨어 종류
 		- arduino
 		- raspberry pi
